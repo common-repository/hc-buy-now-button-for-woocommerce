@@ -1,0 +1,11 @@
+/**
+* @package WooCommerce Buy Now
+*
+* WooCommerce Buy Now Plugin Styles
+**/
+
+.summary.entry-summary a.wcbuynow-button{
+    padding-top: 1.55rem;
+    padding-bottom: 1.59rem;
+    font-size: 1.6rem;
+}
